@@ -1,0 +1,10 @@
+artifact_location: file:D:/MLOps_Project/FailurePrediction/mlruns/494769899269785635/models/m-0bf6627be8d544cdafe79acb71f4cacb/artifacts
+creation_timestamp: 1762113202153
+experiment_id: '494769899269785635'
+last_updated_timestamp: 1762113205435
+model_id: m-0bf6627be8d544cdafe79acb71f4cacb
+model_type: null
+name: Multiclass_RandomForest_Tuned
+source_run_id: 43026d116a034a22968993d5f27899a4
+status: 2
+status_message: null

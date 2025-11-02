@@ -1,0 +1,37 @@
+artifact_path: file:D:/MLOps_Project/FailurePrediction/mlruns/174591467402983793/models/m-f0be197a9e234488b1ed868a54918cad/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.3.2
+model_id: m-f0be197a9e234488b1ed868a54918cad
+model_size_bytes: 10993431
+model_uuid: m-f0be197a9e234488b1ed868a54918cad
+prompts: null
+run_id: 37951bf19662401b9903f2aff5df0a5c
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "Type", "required": true}, {"type": "double",
+    "name": "Rotational_speed_rpm", "required": true}, {"type": "double", "name":
+    "Torque_Nm", "required": true}, {"type": "double", "name": "Tool_wear_min", "required":
+    true}, {"type": "double", "name": "Air_temperature_C", "required": true}, {"type":
+    "double", "name": "Process_temperature_C", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-02 19:52:56.291840'

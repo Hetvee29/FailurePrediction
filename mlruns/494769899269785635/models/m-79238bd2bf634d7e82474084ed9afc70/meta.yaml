@@ -1,0 +1,10 @@
+artifact_location: file:D:/MLOps_Project/FailurePrediction/mlruns/494769899269785635/models/m-79238bd2bf634d7e82474084ed9afc70/artifacts
+creation_timestamp: 1762113198481
+experiment_id: '494769899269785635'
+last_updated_timestamp: 1762113201740
+model_id: m-79238bd2bf634d7e82474084ed9afc70
+model_type: null
+name: Multiclass_LogisticRegression
+source_run_id: 89b07f127ab04e33b41e57576b7c3931
+status: 2
+status_message: null

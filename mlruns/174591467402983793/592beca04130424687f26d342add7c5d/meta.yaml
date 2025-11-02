@@ -1,0 +1,14 @@
+artifact_uri: file:D:/MLOps_Project/FailurePrediction/mlruns/174591467402983793/592beca04130424687f26d342add7c5d/artifacts
+end_time: 1762113175355
+entry_point_name: ''
+experiment_id: '174591467402983793'
+lifecycle_stage: active
+run_id: 592beca04130424687f26d342add7c5d
+run_name: Binary_LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762113168008
+status: 3
+tags: []
+user_id: LENOVO

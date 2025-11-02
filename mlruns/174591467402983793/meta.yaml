@@ -1,0 +1,6 @@
+artifact_location: file:D:/MLOps_Project/FailurePrediction/mlruns/174591467402983793
+creation_time: 1762113158897
+experiment_id: '174591467402983793'
+last_update_time: 1762113158897
+lifecycle_stage: active
+name: failure-prediction-binary

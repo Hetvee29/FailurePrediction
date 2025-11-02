@@ -1,0 +1,10 @@
+artifact_location: file:D:/MLOps_Project/FailurePrediction/mlruns/174591467402983793/models/m-c606b37f4dc84377b09a503745efd89d/artifacts
+creation_timestamp: 1762113168226
+experiment_id: '174591467402983793'
+last_updated_timestamp: 1762113175339
+model_id: m-c606b37f4dc84377b09a503745efd89d
+model_type: null
+name: Binary_LogisticRegression
+source_run_id: 592beca04130424687f26d342add7c5d
+status: 2
+status_message: null

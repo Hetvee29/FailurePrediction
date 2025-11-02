@@ -1,0 +1,6 @@
+artifact_location: file:D:/MLOps_Project/FailurePrediction/mlruns/494769899269785635
+creation_time: 1762113183655
+experiment_id: '494769899269785635'
+last_update_time: 1762113183655
+lifecycle_stage: active
+name: failure-prediction-multiclass

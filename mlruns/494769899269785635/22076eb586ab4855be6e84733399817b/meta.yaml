@@ -1,0 +1,14 @@
+artifact_uri: file:D:/MLOps_Project/FailurePrediction/mlruns/494769899269785635/22076eb586ab4855be6e84733399817b/artifacts
+end_time: 1762113210490
+entry_point_name: ''
+experiment_id: '494769899269785635'
+lifecycle_stage: active
+run_id: 22076eb586ab4855be6e84733399817b
+run_name: Multiclass_XGBoost_Tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762113205458
+status: 3
+tags: []
+user_id: LENOVO

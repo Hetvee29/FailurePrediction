@@ -1,0 +1,10 @@
+artifact_location: file:D:/MLOps_Project/FailurePrediction/mlruns/494769899269785635/models/m-d3a7ff08dcb7400eb196a803273dd6b8/artifacts
+creation_timestamp: 1762113206606
+experiment_id: '494769899269785635'
+last_updated_timestamp: 1762113210469
+model_id: m-d3a7ff08dcb7400eb196a803273dd6b8
+model_type: null
+name: Multiclass_XGBoost_Tuned
+source_run_id: 22076eb586ab4855be6e84733399817b
+status: 2
+status_message: null

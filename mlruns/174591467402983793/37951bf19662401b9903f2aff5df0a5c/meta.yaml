@@ -1,0 +1,14 @@
+artifact_uri: file:D:/MLOps_Project/FailurePrediction/mlruns/174591467402983793/37951bf19662401b9903f2aff5df0a5c/artifacts
+end_time: 1762113179738
+entry_point_name: ''
+experiment_id: '174591467402983793'
+lifecycle_stage: active
+run_id: 37951bf19662401b9903f2aff5df0a5c
+run_name: Binary_RandomForest_Tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762113175359
+status: 3
+tags: []
+user_id: LENOVO

@@ -1,0 +1,14 @@
+artifact_uri: file:D:/MLOps_Project/FailurePrediction/mlruns/494769899269785635/89b07f127ab04e33b41e57576b7c3931/artifacts
+end_time: 1762113201755
+entry_point_name: ''
+experiment_id: '494769899269785635'
+lifecycle_stage: active
+run_id: 89b07f127ab04e33b41e57576b7c3931
+run_name: Multiclass_LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762113198229
+status: 3
+tags: []
+user_id: LENOVO
