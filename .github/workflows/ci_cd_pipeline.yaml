@@ -1,0 +1,30 @@
+---
+name: MLOps CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install dvc mlflow
+
+      - name: Run MLflow tracking
+        run: python mlflow_tracking.py
