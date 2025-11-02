@@ -8,7 +8,7 @@ __pycache__/
 
 # Ignore model and data artifacts
 *.pkl
-*.csv
+# *.csv
 *.log
 
 # Ignore notebook checkpoints
